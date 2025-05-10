@@ -1,3 +1,18 @@
+"""
+Telemetria UTFORCE E-RACING
+Copyright (c) 2024 Lucas Fernandes Christen. Todos os direitos reservados.
+
+Este software é proprietário e confidencial. É proibida a reprodução, distribuição,
+modificação ou uso comercial sem autorização expressa do autor.
+
+Desenvolvido para a Equipe de formula SAE Elétrica UTForce E-Racing.
+Última atualização: 02/01/2024
+
+Descrição:
+    Aplicativo de telemetria que simula dados de sensores e os visualiza
+    em gráficos interativos através de uma interface gráfica moderna.
+"""
+
 # main.py 
 
 import sys
