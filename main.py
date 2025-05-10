@@ -1,6 +1,6 @@
 """
 Telemetria UTFORCE E-RACING
-Copyright (c) 2024 Lucas Fernandes Christen. Todos os direitos reservados.
+Copyright (c) 2025 Lucas Fernandes Christen. Todos os direitos reservados.
 
 Este software é proprietário e confidencial. É proibida a reprodução, distribuição,
 modificação ou uso comercial sem autorização expressa do autor.
